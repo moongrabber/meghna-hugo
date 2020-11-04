@@ -1,4 +1,4 @@
-baseURL = "https://dales.netlify.com"
+baseURL = "https://moongrabber.netlify.com"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
