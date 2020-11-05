@@ -1,4 +1,4 @@
-# Easy Setup (Hugo + Netlify + Forestry)
+# Not so easy Setup (Hugo + Netlify + Forestry)
 Build your website with **Meghna Hugo** theme by following these easy steps(No Coding Required!)
 
 <a href="http://bit.ly/meghna-hugo-installation" target="_blank" title="meghna hugo installation" rel="nofollow"><img width="100%" src="https://user-images.githubusercontent.com/37659754/70844354-4028be00-1e6a-11ea-8d84-02e9a25e7db8.png"></a>
